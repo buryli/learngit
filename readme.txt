@@ -10,5 +10,3 @@ Creating a new branch is new dev.
 
 
 MR.Wang don't open my files,Thanks.
-
-test for "Fuck wangnima".
